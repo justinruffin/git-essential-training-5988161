@@ -1,4 +1,4 @@
-This is content
+This is content that has a conflict
 
 Adding new content
 
